@@ -1,0 +1,26 @@
+{
+    "id": "8AEB4B82",
+    "path": "~/chatgptHigh/R/hello.R",
+    "project_path": "R/hello.R",
+    "type": "r_source",
+    "hash": "1452616546",
+    "contents": "",
+    "dirty": false,
+    "created": 1746744856864.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "23,0",
+        "scrollLine": "22"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1746789534,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1746789534576,
+    "read_only": false,
+    "read_only_alternatives": []
+}

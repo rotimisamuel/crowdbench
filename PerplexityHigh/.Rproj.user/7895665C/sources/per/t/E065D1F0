@@ -1,0 +1,26 @@
+{
+    "id": "E065D1F0",
+    "path": "~/PerplexityHigh/R/hello.R",
+    "project_path": "R/hello.R",
+    "type": "r_source",
+    "hash": "3607998601",
+    "contents": "",
+    "dirty": false,
+    "created": 1746735715327.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "2,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1746739381,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1746739381345,
+    "read_only": false,
+    "read_only_alternatives": []
+}
